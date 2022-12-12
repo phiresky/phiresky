@@ -42,6 +42,11 @@ Here's some of my open-source work (most recent first):
 - Screenshot: [![demo screenshot](https://github.com/phiresky/backchannel-prediction/raw/master/misc/demo_screenshot.png)](https://streamable.com/0woc)
 - Repo: https://github.com/phiresky/backchannel-prediction
 - Technologies: Python, TypeScript
+
+### Machine Learning Demos
+- Screenshot: ![](2022-12-12-16-05-59.png)
+- Live version: https://phiresky.github.io/kogsys-demos/
+- Repo: e.g. https://github.com/phiresky/neural-network-demo
 <!--
 **phiresky/phiresky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
