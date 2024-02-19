@@ -20,7 +20,7 @@ Here's some of my open-source work (most recent first):
 ### sql.js-httpvfs: Hosting SQLite databases on Github Pages
 
 - Article: https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
-
+![image](https://github.com/phiresky/phiresky/assets/2303841/f3914da9-b570-4783-bc24-e0de84a0866a)
 - Technologies: TypeScript, React, SQLite, WebWorkers
 
 ### pandoc-url2cite: Effortlessly and transparently add correctly styled citations to your markdown paper given only a URL
