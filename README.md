@@ -4,6 +4,11 @@ I'm a big fan of FOSS and develop and maintain a few tools as side-projects.
 
 Here's some of my open-source work (most recent first):
 
+### thought-forge-ai: An experiment in generating 30-60 second "deep thought" TikTok-style video including a spoken monologue, moving video scenes, music, and subtitles.
+
+- Repo and Demo: https://github.com/phiresky/thought-forge-ai
+- Technologies: TypeScript
+
 ### sqlite-zstd: Transparent dictionary-based row-level compression for SQLite
 
 - Article: https://phiresky.github.io/blog/2022/sqlite-zstd/
