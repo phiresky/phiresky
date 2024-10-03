@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a big fan of FOSS and develop and maintain a few tools as side-projects.
+I'm a big fan of FOSS and develop and maintain a few tools as side-projects. I also sometimes write technical and educational articles on [my blog](https://phiresky.github.io/blog/).
 
 Here's some of my open-source work (most recent first):
 
