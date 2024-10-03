@@ -4,7 +4,7 @@ I'm a big fan of FOSS and develop and maintain a few tools as side-projects.
 
 Here's some of my open-source work (most recent first):
 
-### thought-forge-ai: An experiment in generating 30-60 second "deep thought" TikTok-style video including a spoken monologue, moving video scenes, music, and subtitles.
+### thought-forge-ai: An experiment in generating "deep thought" TikTok-style video including a spoken monologue, moving video scenes and music
 
 - Repo and Demo: https://github.com/phiresky/thought-forge-ai
 - Technologies: TypeScript
