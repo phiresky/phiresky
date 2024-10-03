@@ -4,6 +4,14 @@ I'm a big fan of FOSS and develop and maintain a few tools as side-projects.
 
 Here's some of my open-source work (most recent first):
 
+### Lemmy: A link aggregator for the fediverse
+
+Lemmy is a federated alternative to Reddit. I'm currently a core maintainer, mainly working on efficient cross-instance communication.
+
+- Repo: https://github.com/lemmyNet/lemmy
+- Website: https://join-lemmy.org
+- Technologies: Rust
+
 ### thought-forge-ai: An experiment in generating "deep thought" TikTok-style video including a spoken monologue, moving video scenes and music
 
 - Repo and Demo: https://github.com/phiresky/thought-forge-ai
