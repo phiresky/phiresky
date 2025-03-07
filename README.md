@@ -8,7 +8,10 @@ Here's some of my open-source work (most recent first):
 
 An interactive visualization that maps the entire ISBN-space of over 100 million books using a custom "bookshelf" space-filling curve, allowing users to explore publication dates, publishers, and availability across the two billion possible ISBN slots.
 
+
 <img src="https://github.com/phiresky/isbn-visualization/raw/master/src/assets/screenshot.png" width="51.6%"> <img src="https://github.com/phiresky/isbn-visualization/blob/master/src/assets/screenshot2.png" width="47%">
+
+This project won first prize in a book metadata visualization contest with a $10,000 prize pool.
 
 
 - Article and Running Instance: https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/
