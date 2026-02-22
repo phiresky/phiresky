@@ -21,7 +21,7 @@ This project won first prize in a book metadata visualization contest with a $10
 
 ### Lemmy: A link aggregator for the fediverse
 
-Lemmy is a federated alternative to Reddit. I'm currently a core maintainer, mainly working on efficient cross-instance communication.
+Lemmy is a federated alternative to Reddit. I'm currently a maintainer, mainly working on efficient cross-instance communication.
 
 ![image](https://github.com/user-attachments/assets/c8cbcea3-bd6a-4ea1-96aa-8d381b2654c6)
 
