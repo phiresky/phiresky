@@ -29,13 +29,6 @@ Lemmy is a federated alternative to Reddit. I'm currently a maintainer, mainly w
 - Website: https://join-lemmy.org
 - Technologies: Rust
 
-### thought-forge-ai: An experiment in generating "deep thought" TikTok-style video including a spoken monologue, moving video scenes and music
-
-https://github.com/user-attachments/assets/f32acff6-bdb6-43b0-9aac-cd5b993c19be
-
-- Repo and Demo: https://github.com/phiresky/thought-forge-ai
-- Technologies: TypeScript
-
 ### sqlite-zstd: Transparent dictionary-based row-level compression for SQLite
 
 ![image](https://github.com/user-attachments/assets/c1390418-3f19-4bcf-8a42-6f733ec43550)
